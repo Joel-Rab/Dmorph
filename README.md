@@ -17,18 +17,19 @@ Race IDs:
 
 
 # Inventory slots:
-1 -- head
-2 -- neck
-3 -- shoulder
-4 -- shirt
-5 -- chest
-6 -- waist
-7 -- legs
-8 -- feet
-9 -- wrist
-10 -- hands
-15 -- back
-16 -- main hand
-17 -- off hand
-18 -- ranged
-19 -- tabard
+example .item 1 0   = no helmet
+1. head
+2. neck
+3. shoulder
+4. shirt
+5. chest
+6. waist
+7. legs
+8. feet
+9. wrist
+10. hands
+15. back
+16. main hand
+17. off hand
+18. ranged
+19. tabard
