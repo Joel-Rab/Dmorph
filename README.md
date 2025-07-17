@@ -1,6 +1,6 @@
 # Commands
 
-To morph into another race (Human, in this case)
+To morph into another race (Human, in this case) = .race 1
 
 Race IDs:
 1. Human
